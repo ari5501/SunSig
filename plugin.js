@@ -7,4 +7,4 @@ console.log(times);
 console.log(sunrisePos);
 //getCurrentPosition();
 
-//hackity hack hack
+//hackity hack hack 2
